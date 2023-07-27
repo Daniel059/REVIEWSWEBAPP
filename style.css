@@ -92,7 +92,7 @@
     border-radius: 100%;
     border-right: 10px solid var(--border-color);
 }
-.details-section>.details-div>.button-div img {
+.details-section>.details-div>.button-div img,svg {
     margin-top: 3rem;
     max-width: 2rem;
     cursor: pointer;
